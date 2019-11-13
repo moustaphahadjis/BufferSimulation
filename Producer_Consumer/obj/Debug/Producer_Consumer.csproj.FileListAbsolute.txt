@@ -1,0 +1,9 @@
+C:\Users\Moustapha\source\repos\Producer_Consumer\Producer_Consumer\bin\Debug\Producer_Consumer.exe.config
+C:\Users\Moustapha\source\repos\Producer_Consumer\Producer_Consumer\bin\Debug\Producer_Consumer.exe
+C:\Users\Moustapha\source\repos\Producer_Consumer\Producer_Consumer\bin\Debug\Producer_Consumer.pdb
+C:\Users\Moustapha\source\repos\Producer_Consumer\Producer_Consumer\obj\Debug\Producer_Consumer.csprojAssemblyReference.cache
+C:\Users\Moustapha\source\repos\Producer_Consumer\Producer_Consumer\obj\Debug\Producer_Consumer.Form1.resources
+C:\Users\Moustapha\source\repos\Producer_Consumer\Producer_Consumer\obj\Debug\Producer_Consumer.Properties.Resources.resources
+C:\Users\Moustapha\source\repos\Producer_Consumer\Producer_Consumer\obj\Debug\Producer_Consumer.csproj.GenerateResource.cache
+C:\Users\Moustapha\source\repos\Producer_Consumer\Producer_Consumer\obj\Debug\Producer_Consumer.exe
+C:\Users\Moustapha\source\repos\Producer_Consumer\Producer_Consumer\obj\Debug\Producer_Consumer.pdb
